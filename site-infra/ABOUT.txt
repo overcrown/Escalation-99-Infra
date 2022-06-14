@@ -1,0 +1,3 @@
+Esse site está sendo criado com o propósito de alimentar o time de Infra com informações pertinente às fornecedoras.
+
+Vai ficar hospedado no github page
